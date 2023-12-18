@@ -1,0 +1,11 @@
+streamlit_option_menu
+imageio
+numpy
+pandas
+streamlit-aggrid
+plotly
+tensorflow
+matplotlib
+imutils
+streamlit
+scikit-learn
