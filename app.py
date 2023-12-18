@@ -2,7 +2,7 @@ import streamlit as st
 #import streamlit as st
 #import sklearn
 import pickle
-import joblib
+#import joblib
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
