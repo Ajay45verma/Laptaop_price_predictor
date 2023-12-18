@@ -1,6 +1,6 @@
 import streamlit as st
 #import streamlit as st
-import sklearn
+#import sklearn
 import pickle
 import joblib
 import numpy as np
